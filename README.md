@@ -1,10 +1,10 @@
-<header>
+<my cyberhome is https://Ipsofacto.pro>
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  Include a QR
+  [24_01-IpsofactoDomain](https://github.com/lucianoCircelli/skills-github-pages/assets/76820418/aae23d68-c63f-4517-9a4d-570abe8b4da2)
+
 -->
 
 # GitHub Pages
