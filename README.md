@@ -1,4 +1,4 @@
-<my cyberhome is https://Ipsofacto.pro>
+<my cyberhome or website is https://Ipsofacto.pro>
 
 <!--
   <<< Author notes: Course header >>>
@@ -10,6 +10,8 @@
 # GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
+
+Dr Vazire’s debut editorial promised changes along those lines at Psychological Science. “By default, we now expect all primary data, original research materials, and analysis scripts to be made publicly available in a trusted third-party repository,” she wrote. Pre-registration will not be required, but it will improve the chances of a paper being accepted. Authors who deviate from their stated plans will need to explain why. (Dr Vazire did not respond to requests for an interview.)
 
 </header>
 
